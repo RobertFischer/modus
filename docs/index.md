@@ -1,4 +1,6 @@
 ---
+title: Modus CI/CD
+description: Modular Container-Native CI/CD for Kubernetes
 ---
 Modus CI/CD is a modern, modular, container-native, Kubernetes-based platform for continuous integration, continuous deployment, and general automation.
 
